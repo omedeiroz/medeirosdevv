@@ -4,7 +4,7 @@
        <img src="https://github.com/medeirosdevv/medeirosdevv/blob/main/background-image.jpg" alt="Asuka" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p># academy-template-readme-profile
+      <p>
 
 # Oi, me chamo [Arthur Medeiros] 👋
 
