@@ -19,7 +19,7 @@
 
 🔎 Também sou curioso sobre [Golang, Kotlin, Rust e Swift]
 
-✒️ Eu gosto de no meu tempo livre [Ler, jogar e codar];
+✒️ Eu gosto de no meu tempo livre [Ler, jogar e codar]
 
 📚 Lendo: [Saga Harry Potter]
 
