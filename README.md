@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/medeirosdevv/medeirosdevv/blob/main/file.jpg" alt="Asuka" style="width: 100%; border: none;"/>
+       <img src="https://i.pinimg.com/736x/93/94/80/93948051ef10b18ef00ae0a818aacdef.jpg" alt="Asuka" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
