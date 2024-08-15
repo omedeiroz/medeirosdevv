@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/medeirosdevv/medeirosdevv/blob/main/background-image.jpg" alt="Asuka" style="width: 100%; border: none;"/>
+       <img src="https://github.com/medeirosdevv/medeirosdevv/blob/main/background-image.jpg" alt="Asuka" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p># academy-template-readme-profile
@@ -37,7 +37,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Golang](https://img.shields.io/badge/-golang-#add8e6?style=flat-square&logo=golang)
 
 
 <div>
