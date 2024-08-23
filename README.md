@@ -6,7 +6,7 @@
     <td style="width: 50%; vertical-align: top;">
       <p>
         
---My name is Arthur Medeiros
+--My name is Arthur Medeiros <br>
 --I'm 20
 
 ### Skills... 🔧
