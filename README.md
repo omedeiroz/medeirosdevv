@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td style="width: 50%;">
-       <img src="https://github.com/medeirosdevv/medeirosdevv/blob/main/background-image.jpg" alt="Asuka" style="width: 200%; border: none;"/>
-    </td>
     <td style="width: 50%; vertical-align: top;">
       <p>
 
